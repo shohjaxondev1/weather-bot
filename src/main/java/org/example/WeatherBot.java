@@ -20,7 +20,7 @@ import java.util.*;
 
 public class WeatherBot extends TelegramLongPollingBot {
 
-    private final String BOT_TOKEN = "7139643006:AAGj4xg_uHdRDCGtPqlNryjGh9TGVkBExCs";
+    private final String BOT_TOKEN = "7139643006:AAFxBu-PIq9q-zW53a5fM-3CrjtIUkw-w8s";
     private final String BOT_USERNAME = "uz1_weather_bot";
     private final String WEATHER_API_KEY = "11ff03f21c7d0af2918c6ef91075beda";
     private final String CHANNEL_USERNAME = "@Nemat0vDev";
